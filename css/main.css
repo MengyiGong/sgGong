@@ -1,0 +1,31 @@
+span{
+    color:#FFFFFF;
+    visibility:visible;
+}
+body{
+    cursor:hand; 
+    background-color: black;
+    text-decoration-color: white;
+}
+h1{
+   font-size: 40px;
+    color:white;
+    text-align:center; 
+}
+p{
+    color:white;
+    margin-left: 320px;
+}
+.game-content{
+    margin:20px auto; 
+    width:500px;
+}
+#squarecontainer { 
+    margin:20px auto; 
+    width:320px; 
+}
+#square { 
+    width:320; 
+    height:320;
+    border: 5px solid #FFFFFF;
+}
